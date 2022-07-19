@@ -7,22 +7,6 @@
 
 <h3 align="center">I am 26 years old Argentinian who loves technology. I am currently focused on full stack web development, systems, AGILE methodologies, digital transformation and learn new technologies to exploit them. The past 2022 year, I discovered my passion for programming and achieved a full stack web develper certification, I want share with you my skills. Welcome!!</h3>
 
-```javascript
-const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS],
-   technologies: {
-      frontEnd: {
-         js: ["React", "Redux"],
-         css: ["Bootstrap", "Material UI"]
-      },
-      backEnd: {
-         js: ["Node", "Express"]
-      },
-      databases: ["PostgreSQL"],
-   };
-  
-```
 - 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Sequelize**
