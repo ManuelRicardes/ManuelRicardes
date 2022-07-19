@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **manuelalbertoricardes@gmail.com**
 
-- 📄 About me: I am a Fullstack Web Developer graduated from Henry, an intensive bootcamp in Argentina. After four years working in F&A I decided to change course. I am currently looking forward to joining a team where I can contribute my knowledge and continue learning new skills and technologies.
+- 📄 About me: I am a Fullstack Web Developer graduated from Henry, an intensive bootcamp in Argentina. After four years working in F&A I decided to change course. I am currently looking forward to join a team where I can contribute my knowledge and continue learning new skills and technologies.
 I am a very curious, passionate person and I really enjoy teamwork. I am attracted to new challenges, and I have a lot of persistence and dedication to achieve my goals.
 
 <h3 align="left">Connect with me:</h3>
